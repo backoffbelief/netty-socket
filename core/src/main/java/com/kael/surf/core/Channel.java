@@ -18,4 +18,8 @@ public @interface Channel {
 	Class<? extends GeneratedMessage> proto();
 	
 	String comment() default "";
+	
+	String serviceName() default "";
+
+	String methodName() default "";
 }
