@@ -1,0 +1,9 @@
+option java_package = "com.kael.core.resp";
+
+message RespUserInfoProto{
+  optional string name =1;
+  optional int32 id = 2;
+  optional int32 rank = 3;
+  optional int32 fame = 4;
+  optional int32 gold = 5;
+}

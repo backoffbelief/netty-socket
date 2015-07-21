@@ -1,0 +1,5 @@
+option java_package = "com.kael.core.request";
+
+message UserInfoProto{
+  optional string name =1;
+}
