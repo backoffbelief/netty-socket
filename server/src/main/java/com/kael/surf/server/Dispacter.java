@@ -4,7 +4,6 @@ import java.lang.reflect.Field;
 import java.util.HashMap;
 import java.util.Map;
 
-import com.google.protobuf.GeneratedMessage;
 import com.kael.surf.core.Channel;
 import com.kael.surf.core.ChannelCode;
 import com.kael.surf.core.ChannelType;

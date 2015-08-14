@@ -1,7 +1,5 @@
 package com.kael.surf.server;
 
-import java.lang.reflect.InvocationTargetException;
-
 import com.google.protobuf.GeneratedMessage;
 import com.kael.surf.core.Channel;
 
