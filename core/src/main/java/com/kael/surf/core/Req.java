@@ -1,4 +1,4 @@
-package com.kael.surf.server;
+package com.kael.surf.core;
 
 import com.google.protobuf.GeneratedMessage;
 import com.kael.surf.core.Channel;
